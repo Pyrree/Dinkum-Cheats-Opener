@@ -2,6 +2,7 @@
 Just a piece of software to help you open up the cheats menu
 
 **Keybinds**
+
 0 (not the one on your numpad) to open the cheats menu
 
 Shift + Esc to close the software
